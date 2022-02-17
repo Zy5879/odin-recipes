@@ -1,1 +1,2 @@
 # odin-recipes
+I am creating this project in order to hone my skills in HTML. The website will consist of a main index page which will have links to a few recipes. This is an important first step into my career into development. Thank you Odin for the assist!
